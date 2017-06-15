@@ -17,7 +17,7 @@ soma++;
 soma *= 3;
 
 // Qual é o valor da variável `soma` até aqui?
-72
+71
 
 // Declare uma variável chamada `souninja`, atribuindo à ela o valor booleano que representa `verdadeiro`.
 var souninja = true;
@@ -42,3 +42,4 @@ function divisao(num1, num2) {
 // Invoque a função criada acima, passando os parâmetros 10 e 2.
 divisao(10, 2);
 ```
+
